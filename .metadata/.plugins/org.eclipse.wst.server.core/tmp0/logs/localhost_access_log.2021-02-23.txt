@@ -1,0 +1,16 @@
+127.0.0.1 - - [23/Feb/2021:18:02:46 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:18:03:00 +0900] "GET /web_test/booklist.jsp HTTP/1.1" 200 139
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:18:04:54 +0900] "GET /web_test/booklist.jsp HTTP/1.1" 200 139
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:18:04:55 +0900] "GET /web_test/booklist.jsp HTTP/1.1" 200 139
+127.0.0.1 - - [23/Feb/2021:18:08:40 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:18:08:40 +0900] "GET /web_booklist/WEB-INF/booklist.jsp HTTP/1.1" 404 721
+127.0.0.1 - - [23/Feb/2021:18:10:29 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:18:10:30 +0900] "GET /web_booklist/bookview.jsp HTTP/1.1" 500 4000
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:18:11:30 +0900] "GET /web_booklist/booklist.jsp HTTP/1.1" 500 4042
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:18:13:58 +0900] "GET /web_booklist/bookview.jsp HTTP/1.1" 500 3951
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:18:14:03 +0900] "GET /web_booklist/booklist.jsp HTTP/1.1" 500 4042
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:18:14:23 +0900] "GET /web_booklist/bookview.jsp HTTP/1.1" 500 3951
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:18:15:54 +0900] "GET /web_booklist/bookview.jsp HTTP/1.1" 500 3951
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:18:16:21 +0900] "GET /web_booklist/booklist.jsp HTTP/1.1" 500 4042
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:18:16:27 +0900] "GET /web_booklist/booklist.jsp HTTP/1.1" 500 4042
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:18:16:27 +0900] "GET /favicon.ico HTTP/1.1" 404 818
